@@ -12,5 +12,8 @@ Snappix is a classroom utility tool that picks students from Google Classroom co
 Snappix does **NOT** store, transmit, or share user data. All data stays on the user’s device. Made by teachers, for teachers.
 All feedback is welcome but any ideas will become the sole property of PhotonicWorlds.
 
+## Privacy Policy
+[Privacy Policy](privacy)
+
 ## Contact
 If you have questions, contact: <neutronluv@gmail.com>
