@@ -9,4 +9,6 @@ For teachers: Windows Unity program that reads student names from Google Classro
 - If you want quicker access, right‑click snappix.exe and choose:
   Send to → Desktop (create shortcut)
 
+# Link to Documentation
+[Download the PDF](snappix.pdf)
 
