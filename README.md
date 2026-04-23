@@ -1,3 +1,9 @@
+![Stars](https://img.shields.io/github/stars/photonicworlds/snappix)
+![Forks](https://img.shields.io/github/forks/photonicworlds/snappix)
+![Issues](https://img.shields.io/github/issues/photonicworlds/snappix)
+![License](https://img.shields.io/github/license/photonicworlds/snappix)
+![Last Commit](https://img.shields.io/github/last-commit/photonicworlds/snappix)
+![Repo Size](https://img.shields.io/github/repo-size/photonicworlds/snappix)
 # Snappix
 For teachers: Windows Unity program that reads student names from Google Classrooms per Google account. Then, the user can pick 1-5 students at random either with replacement or without. A school name and school logo can be customized.
 
