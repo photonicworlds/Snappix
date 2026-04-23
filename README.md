@@ -12,3 +12,6 @@ For teachers: Windows Unity program that reads student names from Google Classro
 # Link to Documentation
 [Download the PDF](snappix.pdf)
 
+# Screenshot of Pick
+<img width="1037" height="488" alt="image" src="https://github.com/user-attachments/assets/c8ed9558-0591-43c4-b3b6-7158c8fa345d" />
+
